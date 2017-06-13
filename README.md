@@ -9,3 +9,4 @@ So we decided to fork it and do some modifications.
 * clone the repository ```git clone git@github.com:feathersjs/feathers-chat.git```
 * install node packages ```npm install```
 * prepare database. Create the database in PostgreSQL then configure the project to connect to that database. You can find the connection settings in ```config/default.json```
+* run the program ```npm start```
